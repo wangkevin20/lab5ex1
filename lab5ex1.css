@@ -5,14 +5,13 @@ body{
 #wrapper{
 	width:750px;
 	margin:0 auto;
-
+	background-color:red;
 
 }
 #header{
 
 	height:50px;
 	text-align:center;
-	background-color:red;
 
 }
 
@@ -25,18 +24,20 @@ body{
 	font-size: 8px
 }
 
-#bottom{
+#footer{
 	float:left;
 	width:740px;
 	height: 50px;
 	background-color:blue ;
 	padding:5px;
 	font-size: 8px
+}
+
+#bottom{
+	float:left;
+	width:740px;
+	height:50px;
+	background:white;
+	padding:5px;
 	clear:both;
-
-
-
-
-
-
 }
